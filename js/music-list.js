@@ -94,6 +94,18 @@ let allMusic = [
     img: "Về Bên AnhLofi Ver Jack",
     src: "Về Bên AnhLofi Ver Jack"
   },
+  {
+    name: "Cảm Ơn Vì Tất Cả (Lofi Ver)",
+    artist: "Anh Quân Idol",
+    img: "Cảm Ơn Vì Tất Cả Lofi Ver  Anh Quân Idol",
+    src: "Cảm Ơn Vì Tất Cả Lofi Ver  Anh Quân Idol"
+  },
+  {
+    name: "Đường Tôi Chở Em Về (Lofi Ver)",
+    artist: "buitruonglinh",
+    img: "Đường Tôi Chở Em Về Lofi Ver  buitruonglinh",
+    src: "Đường Tôi Chở Em Về Lofi Ver  buitruonglinh"
+  },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
